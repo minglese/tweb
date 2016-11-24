@@ -1,0 +1,9 @@
+STARRING:Io <br /> Tu <br /> Egli <br /> Noi
+DIRECTOR:Voi
+THEATRICAL RELEASE:Nov 21, 2016
+MOVIE SYNOPSIS:Beh, insomma... più o meno è un film d'avventura, con tante piante e tante persone ce ci si arrampicano (perché camminare per strada è troppo pericoloso...!).
+RELEASE COMPANY:UniTO
+RUNTIME:+inf
+GENRE:non particolarmente fantasy
+BOX OFFICE:$0
+LINKS:<a href="laurea.educ.di.unito.it">Laurea in Informatica - UniTO</a>
